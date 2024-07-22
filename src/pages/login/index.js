@@ -1,5 +1,5 @@
 import Image from "next/image";
-import umt from "/public/umt.png";
+import umt from "/src/assets/umt.png";
 import Button from "@/components/Button";
 import Link from "next/link";
 
