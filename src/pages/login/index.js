@@ -8,7 +8,7 @@ export default function Index() {
     <>
       <div className="flex items-center justify-center w-full h-screen font-poppins">
         <div className="flex flex-row items-center justify-center w-full h-full p-10 bg-lightdark">
-          <div className="flex min-[320px]:hidden max-[769px]: items-center justify-center w-1/4 ">
+          <div className="flex max-[768px]:hidden items-center justify-center w-1/4">
             <Image src={umt} width={250} height={250} quality={100} />
           </div>
           <form action="" className=" md:w-1/4 rounded-md p-6 bg-[#EEEEEE]">

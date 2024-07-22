@@ -1,4 +1,5 @@
 import Link from "next/link";
+import umt from "/public/umt.png";
 
 export default function Home() {
   return (
